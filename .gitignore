@@ -1,0 +1,4 @@
+
+app.sh
+data/bin/*
+data/node_modules/*
