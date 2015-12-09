@@ -1,0 +1,15 @@
+{
+  "name": "surprisesavant",
+  "version": "1.0.0",
+  "description": "application d'import des données",
+  "author": "Antoine.D",
+  "license": "ISC",
+  "main": "./app/index.html",
+  "window": {
+    "toolbar": true,
+    "width": 400,
+    "height": 400
+  },
+  "dependencies": {
+  }
+}

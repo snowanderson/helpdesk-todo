@@ -1,0 +1,14 @@
+header {
+  height: 100px;
+  background-color: #0d678a;
+}
+
+.done-true {
+  text-decoration: line-through;
+  color: grey;
+}
+
+.unstyled {
+  max-height: 300px;
+  overflow-y: scroll
+}

@@ -2,3 +2,5 @@
 app.sh
 data/bin/*
 data/node_modules/*
+nwjs.app/*
+nwjc
